@@ -1,0 +1,1 @@
+<button onclick="openCreateGroup()">Create Group</button>
